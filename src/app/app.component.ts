@@ -9,7 +9,7 @@ import { Component } from '@angular/core';
 
 export class AppComponent {
 
-  palabra = 'PANDERITOSPIONONITOS';
+  palabra = 'ESTERNOCLEIDOMASTOIDEO';
   palabraOculta = '';
   intentos = 0;
   gano = false;
